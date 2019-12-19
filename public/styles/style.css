@@ -140,15 +140,7 @@ form input{
     border: 15px solid #4834d4;
     border-radius: 20px;
 }
-� 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
+.astroheader{
+    text-align: center;
+}
